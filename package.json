@@ -8,7 +8,6 @@
     "start": "next start -p $PORT",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "dependencies": {
     "@heroicons/react": "^1.0.5",
